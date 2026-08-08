@@ -40,24 +40,6 @@ Currently, I'm pursuing my **M.Tech in Computer Science Engineering with a speci
 
 ---
 
-## 🚀 What I'm Currently Working On
-
-### ☁️ AWS Serverless Application
-
-Currently building a serverless application using AWS services and exploring:
-
-- AWS Lambda
-- API Gateway
-- Amazon S3
-- Amazon DynamoDB
-- Amazon SQS
-- Authentication & Authorization
-- Serverless application architecture
-
-This project is helping me build practical cloud-development experience and understand how different AWS services work together in an application.
-
----
-
 ## 📌 Featured Projects
 
 ### 🏦 Bank Account — Python Unit Testing & Mocking
