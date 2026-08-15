@@ -47,12 +47,12 @@ Currently, I'm pursuing my **M.Tech in Computer Science Engineering with a speci
 A multi-agent AI travel planner that creates and refines weather-aware travel itineraries using **Microsoft AutoGen, Gemini, Chainlit, and the Open-Meteo weather API**.
 
 **Highlights:**
-🤖 Multi-agent collaboration using AutoGen SelectorGroupChat
-🧭 Travel Planner Agent for itinerary creation and revision
-🌦️ Weather Agent using the Open-Meteo API for real forecast data
-🔍 Travel Critic Agent for budget, pacing, interest match, conflicts, and practicality
-🛡️ Three-layer safety guardrails for prompt injection, unsafe intent, and final-plan validation
-💬 Real-time agent interaction through a Chainlit interface
+- 🤖 Multi-agent collaboration using AutoGen SelectorGroupChat
+- 🧭 Travel Planner Agent for itinerary creation and revision
+- 🌦️ Weather Agent using the Open-Meteo API for real forecast data
+- 🔍 Travel Critic Agent for budget, pacing, interest match, conflicts, and practicality
+- 🛡️ Three-layer safety guardrails for prompt injection, unsafe intent, and final-plan validation
+- 💬 Real-time agent interaction through a Chainlit interface
 
 👉 [View Repository](https://github.com/Srijita33/Travel_Weather_Planner_MultiAgentSystem)
 
